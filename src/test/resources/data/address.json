@@ -1,0 +1,17 @@
+{
+      "billingAddress": [
+            {
+                  "firstName": "Carlos",
+                  "lastName": "Ruiz",
+                  "companyName": "Test Company",
+                  "email": "test@gmail.com",
+                  "phone": "88888888",
+                  "country": "Costa Rica",
+                  "address": "Distrito Central, San Jose",
+                  "city": "San Jose",
+                  "state": "San Jose",
+                  "usState": "New York",
+                  "zip": "1001"
+            }
+      ]
+}

@@ -1,0 +1,8 @@
+{
+      "config": [
+            {
+                  "url": "https://practice.automationtesting.in/my-account/",
+                  "browser": "chrome"
+            }
+      ]
+}
